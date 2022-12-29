@@ -1,0 +1,10 @@
+................Project Name: MovieAppMVVM...............
+Source of API: themoviedb(TMDB) 
+*API
+****https://jsonformatter.curiousconcept.com/**To covert source code to json format  
+***https://www.jsonschema2pojo.org/** Select json & gson then click on preview to get the formated java source code
+
+
+///////sportmonks.com/////
+api-token: SR5rCseIghr7UlPvI5OIiiWxW9XKFfaa2gbjWgOYAk4qonxVs0ZNLiMdsHeS
+
